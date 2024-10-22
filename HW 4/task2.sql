@@ -35,7 +35,6 @@ INSERT INTO petEvent (petname, eventdate, eventtype, remark)
 VALUES
     ("Hammy", "2020-10-15", "vet", "antibiotics");
 
-SELECT
 
 UPDATE petevent
 SET remark = "5 kittenss, 2 male"
